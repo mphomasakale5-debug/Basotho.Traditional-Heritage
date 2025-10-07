@@ -1,0 +1,14 @@
+body{
+font-family:"Helvetica Neue",
+Arial,sans-serif;
+font-size:16x;/*comment*/
+color:#ff6347;/*red*/
+background-color:green;
+}
+h1{font-size:2e;
+font-weight:bold;
+color;rgb(50,100,150);
+}
+p{line-height:1.5;
+text-align:justify;
+}
